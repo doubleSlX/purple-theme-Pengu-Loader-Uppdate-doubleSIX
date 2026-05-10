@@ -1,0 +1,56 @@
+/* Фикс псевдоэлемента коллекции */
+.collections-application:before {
+  pointer-events: none;
+}
+
+/* Фикс кнопок навигации коллекции */
+.collections-routes {
+  pointer-events: none;
+}
+
+.collections-routes > * {
+  pointer-events: auto;
+}
+
+/* Фикс отдельных вкладок */
+[class*="collections__"] {
+  pointer-events: none;
+}
+
+[class*="collections__"] > * {
+  pointer-events: auto;
+}
+
+/* Фикс вкладки Руны */
+.runes-route {
+  pointer-events: none;
+}
+
+.runes-route > * {
+  pointer-events: auto;
+}
+
+/* Фикс кнопки Play */
+.play-button-container {
+  pointer-events: auto !important;
+}
+
+.play-button-component {
+  pointer-events: auto !important;
+}
+
+.collections-application {
+  width: calc(100% + 224px) !important;
+}
+
+.collections-application:before {
+  pointer-events: none;
+}
+
+document.querySelectorAll('.right-nav-menu .main-navigation-menu-item').forEach((el, i) => {
+  console.log(i, el.className, el.getBoundingClientRect().x);
+});
+
+#rcp-fe-viewport-root .wallet-and-badges {
+  margin-right: 80px !important;
+}
