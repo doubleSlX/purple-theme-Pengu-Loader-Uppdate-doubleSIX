@@ -14,3 +14,11 @@ Google chat and Cloud at hand, with their help I figured it out a little and rem
 Чтобы применить тему тебе просто нужно папку которую ты скачаешь "purple-theme-Pengu-Loader-Uppdate-doubleSIX-main" закинуть в папку "plugins"
 И проверить что оно отображается у тебя в самом Pengu Loader, я юзаю версию его 1.1.6, у меня рабоатет всё стабильно
 <img width="1020" height="575" alt="image" src="https://github.com/user-attachments/assets/26610157-bb0b-41d5-8d17-ef48780e2e62" />
+
+Что конкретно я переделал под себя и исправил, изначально у меня не работали вот эти кнопки
+<img width="846" height="186" alt="image" src="https://github.com/user-attachments/assets/96a49016-0f84-4a07-88b2-356ce89223c2" />
+Теперь всё работает и так же я добавил вот это выпадающее меню 
+<img width="321" height="218" alt="image" src="https://github.com/user-attachments/assets/687b25ce-7f2b-464e-9a08-d91414cfc481" />
+Куда я спрятал все кнопки
+<img width="253" height="542" alt="image" src="https://github.com/user-attachments/assets/5aa53e32-0759-4dc0-b84c-93444933638d" />
+Пока что у меня все работает
