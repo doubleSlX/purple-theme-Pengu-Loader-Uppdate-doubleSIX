@@ -22,3 +22,6 @@ Google chat and Cloud at hand, with their help I figured it out a little and rem
 Куда я спрятал все кнопки
 <img width="253" height="542" alt="image" src="https://github.com/user-attachments/assets/5aa53e32-0759-4dc0-b84c-93444933638d" />
 Пока что у меня все работает
+
+Вот так выглядит папка с файлами 
+<img width="712" height="481" alt="image" src="https://github.com/user-attachments/assets/d063dd0b-4a98-4293-97ef-afecfd3cf783" />
